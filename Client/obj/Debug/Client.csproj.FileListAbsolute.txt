@@ -1,0 +1,15 @@
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Client.exe.config
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Client.exe
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Client.pdb
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.Azure.Devices.Client.dll
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.ServiceBus.dll
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.Azure.Amqp.pdb
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Microsoft.ServiceBus.xml
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\obj\Debug\Client.exe
+D:\Thesis\Thesis_FDTCloud\Source\cmdProjects\Client\obj\Debug\Client.pdb
